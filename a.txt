@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My HTML Page</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body style="background-color:orange;"> 
+      <table width="100%">
+  <tr>
+     <th><a href="index.html">Home</a></th>
+    <th><a href="about.html"> About</a></th>
+      <th><a href= shop.html>shop</a></th>
+    <th><a href='youtube.html'youtube>youtube</a></th>      </tr>
+
+   
+</table>
+      
+      
+      
+      
+      <ul><Li>we like fortnite</Li><li>ITS THE GUY FROM FORTNITE</li><li>this is so funny</li></ul><img src="rock.png" alt="Image description" />
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">FREE VBUCKS</a>
+      
+      <a href="https://www.youtube.com/c/GamerMeld">GAMERMELD</a>
+    <h1>Welcome to memer land</h1>
+      <h2>The fortnite lore is cool but I want new POIs but epic did not add any bruh </h2>
+      <h3>AHHHHHHHHMEMER LAND this is like the new gamermeld lol</h3>
+      <h4>bruh im bored</h4>
+      <h5>I know I dont sound like it but I am lol</h5>
+      <h6>REEEEEEEEEEEEEEEEEEE</h6>
+    <p>hi <b>OOGABOOGA</b> lol idk what to write unicorn flakes <i>luke vs baby yoda</i> who will win? i think you probally know SPACE CHIMP lol it was all fun and space walks until they left him what does that mean? Im hyper I ate to much unicorn flakes HELPPPPPPP idk what to write ik I already said that but</p><p>REEEEEE battle to the </p>
+      <ol>  <li>im bored</li><li>I like cats</li><li>Gamermeld</li></ol>
+    <img src="max-winter.jpg" alt="Image description" />
+    
+    
+    
+    
+    
+    
+    
+    </body>                                                                   </html>
